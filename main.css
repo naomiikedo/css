@@ -3,6 +3,6 @@
     margin: 0px;
     padding: 0px;
 }
-header{
-    
+header li {
+    display: inline;
 }
