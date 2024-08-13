@@ -6,3 +6,7 @@
 header li {
     display: inline;
 }
+.conteiner{
+    width: 1366px;
+    margin: 0 auto;
+}
